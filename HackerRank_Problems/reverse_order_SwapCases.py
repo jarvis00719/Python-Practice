@@ -7,4 +7,3 @@ def reverse_words_order_and_swap_cases(sentence):
 
 s = input()
 print(reverse_words_order_and_swap_cases(s))
-bjdvM4UkP:_7MqE
