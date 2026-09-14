@@ -8,7 +8,7 @@ def breaking_records(score):
     min_score = score[0] 
     
     max_record_break = 0
-    lowest_record_break = 0
+    lowest_record_break = 0 ##--Count-Record break--##
 
     for s in score[1:]:
          
